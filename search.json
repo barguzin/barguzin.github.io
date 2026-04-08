@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evgeny Noi",
+    "section": "",
+    "text": "I am a spatial data scientist working at the intersection of geospatial analysis, urban modeling, remote sensing, and machine learning."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Evgeny Noi",
+    "section": "Research interests",
+    "text": "Research interests\n\nUrban growth and densification modeling\nGridded population and built-up change\nSpatial machine learning\nUncertainty and scenario-based forecasting"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Evgeny Noi",
+    "section": "Current work",
+    "text": "Current work\nMy current work focuses on modeling urban change from past to present using remote sensing, statistical learning, and deep learning methods."
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Evgeny Noi",
+    "section": "Selected links",
+    "text": "Selected links\n\nAcademic CV\nBlog\nGitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/2026-04-08-first-python-post.html",
+    "href": "posts/2026-04-08-first-python-post.html",
+    "title": "My first Quarto post in Python",
+    "section": "",
+    "text": "This post is written in Markdown and rendered with Python."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Academic CV",
+    "section": "",
+    "text": "Download PDF version"
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "Academic CV",
+    "section": "Employment",
+    "text": "Employment\n\nSenior Research Associate, University of Bristol, UK\nResearch Associate, Colorado University - Boulder, USA"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Academic CV",
+    "section": "Education",
+    "text": "Education\n\nPhD in Geography, University of California - Santa Barbara, USA\nMA in Statistics, University of California - Santa Barbara, USA\nMS in Urban Planning, University of Iowa, USA"
+  },
+  {
+    "objectID": "cv.html#research-areas",
+    "href": "cv.html#research-areas",
+    "title": "Academic CV",
+    "section": "Research areas",
+    "text": "Research areas\n\nUrban modeling\nGeospatial data science\nRemote sensing\nSpatial statistics"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Academic CV",
+    "section": "Publications",
+    "text": "Publications\n\nJournal articles\n\nNoi, E., Rudolph, A., & Dodge, S. (2024). VASA: an exploratory visualization tool for mapping spatio-temporal structure of mobility–a COVID-19 case study. Cartography and Geographic Information Science, 51(2), 275-296.\nNoi, E., Dodge, S., & Murray, A. T. (2025). Exploring the effects of wildfire events on movement patterns. Applied Geography, 179, 103602.\nNoi, E., Rudolph, A., & Dodge, S. (2022). Assessing COVID-induced changes in spatiotemporal structure of mobility in the United States in 2020: a multi-source analytical framework. International Journal of Geographical Information Science, 36(3), 585-616."
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Academic CV",
+    "section": "Presentations",
+    "text": "Presentations"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Academic CV",
+    "section": "Teaching",
+    "text": "Teaching\n\nGEOG 172: Intermediate Geographic Data Analysis\nGEOG 176A: Introduction to Geographic Information Systems and Science\nGEOG 176C: GIS Design and Applications\nGEOG 12: Maps and Spatial Reasoning\nGEOG 3A: Ocean Atmosphere\nGEOG 190: Location Theory and Modelling\nGEOG:3920:0001/2: Planning Livable Cities"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Academic CV",
+    "section": "Skills",
+    "text": "Skills\n\nPython, R, SQL\nGIS, remote sensing, machine learning\nDocker, Git, HPC"
+  },
+  {
+    "objectID": "posts/2026-04-08-first-r-post.html",
+    "href": "posts/2026-04-08-first-r-post.html",
+    "title": "My first Quarto post in R",
+    "section": "",
+    "text": "This post is written in Markdown and rendered with R."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is where research notes, technical posts, and project updates will appear.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in Python\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in R\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\nNo matching items"
+  }
+]
