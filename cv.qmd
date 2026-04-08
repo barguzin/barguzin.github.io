@@ -33,6 +33,10 @@ toc: true
 
 ## Presentations
 
+- Modeling Future Urban Growth: Does One Size Fit All, University of Bristol, Quantitative Spatial Science Seminar [2025]   
+- Visual Analytics for Spatial Association: Exploring Spatio-Temporal Patterns of Human
+Mobility, University of Chicago Spatial Data Science Center [2023]
+
 ## Teaching
 
 - GEOG 172: Intermediate Geographic Data Analysis 
