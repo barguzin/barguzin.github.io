@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Evgeny Noi",
+    "objectID": "posts/2026-04-08-first-python-post.html",
+    "href": "posts/2026-04-08-first-python-post.html",
+    "title": "My first Quarto post in Python",
     "section": "",
-    "text": "I am a spatial data scientist working at the intersection of geospatial analysis, urban modeling, remote sensing, and machine learning."
+    "text": "This post is written in Markdown and rendered with Python."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Evgeny Noi",
-    "section": "Research interests",
-    "text": "Research interests\n\nUrban growth and densification modeling\nGridded population and built-up change\nSpatial machine learning\nUncertainty and scenario-based forecasting"
-  },
-  {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Evgeny Noi",
-    "section": "Current work",
-    "text": "Current work\nMy current work focuses on modeling urban change from past to present using remote sensing, statistical learning, and deep learning methods."
-  },
-  {
-    "objectID": "index.html#selected-links",
-    "href": "index.html#selected-links",
-    "title": "Evgeny Noi",
-    "section": "Selected links",
-    "text": "Selected links\n\nAcademic CV\nBlog\nGitHub"
-  },
-  {
-    "objectID": "posts/2026-04-08-first-r-post.html",
-    "href": "posts/2026-04-08-first-r-post.html",
-    "title": "My first Quarto post in R",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "This post is written in Markdown and rendered with R."
+    "text": "This is where research notes, technical posts, and project updates will appear.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in Python\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in R\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -91,24 +70,45 @@
     "text": "Skills\n\nPython, R, SQL\nGIS, remote sensing, machine learning\nDocker, Git, HPC"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This is where research notes, technical posts, and project updates will appear.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in Python\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in R\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2026-04-08-first-python-post.html",
-    "href": "posts/2026-04-08-first-python-post.html",
-    "title": "My first Quarto post in Python",
-    "section": "",
-    "text": "This post is written in Markdown and rendered with Python."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evgeny Noi",
+    "section": "",
+    "text": "I am a spatial data scientist interested in how cities grow, densify, and change over time. My work combines geospatial analysis, remote sensing, statistical modeling, and machine learning to study urban systems and develop methods for forecasting built-up and population change. More broadly, I am interested in building rigorous and practical tools that help translate spatial data into clearer insight about past, present, and future urbanization."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Evgeny Noi",
+    "section": "Research interests",
+    "text": "Research interests\n\nUrban growth and densification modeling\nGridded population and built-up change\nSpatial machine learning\nUncertainty and scenario-based forecasting"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Evgeny Noi",
+    "section": "Current work",
+    "text": "Current work\nAs part of the FuturePop project, I am developing state-of-the-art tools for predicting how cities grow under different social and economic scenarios. My work combines geospatial data, urban modeling, and machine learning to build high-resolution forecasts of urban and population change, with particular emphasis on scenario-based modeling linked to the Shared Socioeconomic Pathways (SSPs)."
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Evgeny Noi",
+    "section": "Selected links",
+    "text": "Selected links\n\nAcademic CV\nBlog\nGitHub"
+  },
+  {
+    "objectID": "posts/2026-04-08-first-r-post.html",
+    "href": "posts/2026-04-08-first-r-post.html",
+    "title": "My first Quarto post in R",
+    "section": "",
+    "text": "This post is written in Markdown and rendered with R."
   }
 ]
