@@ -1,0 +1,21 @@
+---
+title: "My first Quarto post in Python"
+date: 2026-04-08
+categories: [Python, geospatial]
+jupyter: python3
+---
+
+This post is written in Markdown and rendered with Python.
+
+```{python}
+#| echo: false
+import matplotlib.pyplot as plt
+
+x = list(range(1, 11))
+y = [i**2 for i in x]
+
+plt.plot(x, y, marker="o")
+plt.xlabel("x")
+plt.ylabel("x^2")
+plt.show()
+```

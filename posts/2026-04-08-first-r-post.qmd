@@ -1,0 +1,14 @@
+---
+title: "My first Quarto post in R"
+date: 2026-04-08
+categories: [R, geospatial]
+---
+
+This post is written in Markdown and rendered with R.
+
+```{r}
+#| echo: false
+x <- 1:10
+y <- x^2
+plot(x, y, type = "b")
+```

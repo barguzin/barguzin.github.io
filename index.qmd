@@ -1,0 +1,37 @@
+---
+title: "Evgeny Noi"
+image: profile.png
+about:
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/barguzin
+    - icon: file-earmark-text
+      text: CV
+      href: cv.html
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/evgenynoi/
+---
+
+I am a spatial data scientist working at the intersection of geospatial analysis, urban modeling, remote sensing, and machine learning.
+
+## Research interests
+
+- Urban growth and densification modeling
+- Gridded population and built-up change
+- Spatial machine learning
+- Uncertainty and scenario-based forecasting
+
+## Current work
+
+My current work focuses on modeling urban change from past to present using remote sensing, statistical learning, and deep learning methods.
+
+## Selected links
+
+- [Academic CV](cv.html)
+- [Blog](blog.html)
+- [GitHub](https://github.com/barguzin)

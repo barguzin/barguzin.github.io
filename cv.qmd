@@ -1,0 +1,51 @@
+---
+title: "Academic CV"
+toc: true
+---
+
+[Download PDF version](files/cv.pdf)
+
+## Employment
+
+- **Senior Research Associate**, University of Bristol, UK
+- **Research Associate**, Colorado University - Boulder, USA
+
+## Education
+
+- **PhD in Geography**, University of California - Santa Barbara, USA
+- **MA in Statistics**, University of California - Santa Barbara, USA
+- **MS in Urban Planning**, University of Iowa, USA
+
+## Research areas
+
+- Urban modeling
+- Geospatial data science
+- Remote sensing
+- Spatial statistics
+
+## Publications
+
+### Journal articles
+
+1. Noi, E., Rudolph, A., & Dodge, S. (2024). VASA: an exploratory visualization tool for mapping spatio-temporal structure of mobility–a COVID-19 case study. Cartography and Geographic Information Science, 51(2), 275-296.
+2. Noi, E., Dodge, S., & Murray, A. T. (2025). Exploring the effects of wildfire events on movement patterns. Applied Geography, 179, 103602.
+3. Noi, E., Rudolph, A., & Dodge, S. (2022). Assessing COVID-induced changes in spatiotemporal structure of mobility in the United States in 2020: a multi-source analytical framework. International Journal of Geographical Information Science, 36(3), 585-616.
+
+## Presentations
+
+## Teaching
+
+- GEOG 172: Intermediate Geographic Data Analysis 
+- GEOG 176A: Introduction to Geographic Information Systems and Science
+- GEOG 176C: GIS Design and Applications
+- GEOG 12: Maps and Spatial Reasoning
+- GEOG 3A: Ocean Atmosphere
+- GEOG 190: Location Theory and Modelling
+- GEOG:3920:0001/2: Planning Livable Cities
+
+
+## Skills
+
+- Python, R, SQL
+- GIS, remote sensing, machine learning
+- Docker, Git, HPC
