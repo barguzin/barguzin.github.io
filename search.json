@@ -28,18 +28,11 @@
     "text": "Selected links\n\nAcademic CV\nBlog\nGitHub"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/2026-04-08-first-r-post.html",
+    "href": "posts/2026-04-08-first-r-post.html",
+    "title": "My first Quarto post in R",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "posts/2026-04-08-first-python-post.html",
-    "href": "posts/2026-04-08-first-python-post.html",
-    "title": "My first Quarto post in Python",
-    "section": "",
-    "text": "This post is written in Markdown and rendered with Python."
+    "text": "This post is written in Markdown and rendered with R."
   },
   {
     "objectID": "cv.html",
@@ -81,7 +74,7 @@
     "href": "cv.html#presentations",
     "title": "Academic CV",
     "section": "Presentations",
-    "text": "Presentations"
+    "text": "Presentations\n\nModeling Future Urban Growth: Does One Size Fit All, University of Bristol, Quantitative Spatial Science Seminar [2025]\n\nVisual Analytics for Spatial Association: Exploring Spatio-Temporal Patterns of Human Mobility, University of Chicago Spatial Data Science Center [2023]"
   },
   {
     "objectID": "cv.html#teaching",
@@ -98,17 +91,24 @@
     "text": "Skills\n\nPython, R, SQL\nGIS, remote sensing, machine learning\nDocker, Git, HPC"
   },
   {
-    "objectID": "posts/2026-04-08-first-r-post.html",
-    "href": "posts/2026-04-08-first-r-post.html",
-    "title": "My first Quarto post in R",
-    "section": "",
-    "text": "This post is written in Markdown and rendered with R."
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
     "text": "This is where research notes, technical posts, and project updates will appear.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in Python\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMy first Quarto post in R\n\n\n\n\n\n\n\n\nApr 8, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-04-08-first-python-post.html",
+    "href": "posts/2026-04-08-first-python-post.html",
+    "title": "My first Quarto post in Python",
+    "section": "",
+    "text": "This post is written in Markdown and rendered with Python."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
