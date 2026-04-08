@@ -1,0 +1,17 @@
+{
+  "hash": "0d3b593487d9e94110566518ccba4936",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My first Quarto post in R\"\ndate: 2026-04-08\ncategories: [R, geospatial]\n---\n\nThis post is written in Markdown and rendered with R.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](2026-04-08-first-r-post_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "2026-04-08-first-r-post_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

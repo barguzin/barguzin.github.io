@@ -1,0 +1,12 @@
+{
+  "hash": "259794e3880d91f225c7d4efca6df9b5",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"My first Quarto post in Python\"\ndate: 2026-04-08\ncategories: [Python, geospatial]\njupyter: python3\n---\n\nThis post is written in Markdown and rendered with Python.\n\n::: {#bef4cb20 .cell execution_count=1}\n\n::: {.cell-output .cell-output-display}\n![](2026-04-08-first-python-post_files/figure-html/cell-2-output-1.png){width=593 height=429}\n:::\n:::\n\n\n",
+    "supporting": [
+      "2026-04-08-first-python-post_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
