@@ -17,7 +17,7 @@ about:
       href: https://www.linkedin.com/in/evgenynoi/
 ---
 
-I am a spatial data scientist working at the intersection of geospatial analysis, urban modeling, remote sensing, and machine learning.
+I am a spatial data scientist interested in how cities grow, densify, and change over time. My work combines geospatial analysis, remote sensing, statistical modeling, and machine learning to study urban systems and develop methods for forecasting built-up and population change. More broadly, I am interested in building rigorous and practical tools that help translate spatial data into clearer insight about past, present, and future urbanization.
 
 ## Research interests
 
@@ -28,7 +28,7 @@ I am a spatial data scientist working at the intersection of geospatial analysis
 
 ## Current work
 
-My current work focuses on modeling urban change from past to present using remote sensing, statistical learning, and deep learning methods.
+As part of the FuturePop project, I am developing state-of-the-art tools for predicting how cities grow under different social and economic scenarios. My work combines geospatial data, urban modeling, and machine learning to build high-resolution forecasts of urban and population change, with particular emphasis on scenario-based modeling linked to the Shared Socioeconomic Pathways (SSPs).
 
 ## Selected links
 
